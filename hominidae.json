@@ -1,0 +1,124 @@
+{
+  "species": [
+    {
+      "specie": "Bonobo",
+      "scientificName": "Pan paniscus",
+      "genus": "Pan",
+      "distribution": "Western Africa",
+      "representation": "../assets/bonobo.jpeg",
+      "minHeight": 70,
+      "maxHeight": 83,
+      "timeRegistered": 200000
+    },
+    {
+      "specie": "Chimpanzee",
+      "scientificName": "Pan troglodytes",
+      "genus": "Pan",
+      "distribution": "Tropical Africa",
+      "representation": "../assets/chimpanzee.jpeg",
+      "minHeight": 150,
+      "maxHeight": 150,
+      "timeRegistered": 200000
+    },
+    {
+      "specie": "Bornean Orangutans",
+      "scientificName": "Pongo pygmaeus",
+      "genus": "Pongo",
+      "distribution": "Bornean lowlands",
+      "representation": "../assets/bornean-orangutan.jpg",
+      "minHeight": 30,
+      "maxHeight": 170,
+      "timeRegistered": 400000
+    },
+    {
+      "specie": "Sumatran Orangutans",
+      "scientificName": "Pongo abelii",
+      "genus": "Pongo",
+      "distribution": "Indonesian island of Sumatra",
+      "representation": "../assets/sumatra-orangutan.jpg",
+      "minHeight": 45,
+      "maxHeight": 180,
+      "timeRegistered": 400000
+    },
+    {
+      "specie": "Tapanuli Orangutans",
+      "scientificName": "Pongo tapanuliensis",
+      "genus": "Pongo",
+      "distribution": "South Tapanulia",
+      "representation": "../assets/tapanuli-orangutan.jpeg",
+      "minHeight": 110,
+      "maxHeight": 137,
+      "timeRegistered": 340000
+    },
+    {
+      "specie": "Eastern Gorilla",
+      "scientificName": "Gorilla beringei",
+      "genus": "Gorilla",
+      "distribution": "mountain rainforest and subalpine forest of eastern Democratic Republic of the Congo",
+      "representation": "../assets/eastern-gorilla.jpg",
+      "minHeight": 150,
+      "maxHeight": 170,
+      "timeRegistered": 7000000
+    },
+    {
+      "specie": "Western Gorilla",
+      "scientificName": "Gorilla gorilla",
+      "genus": "Gorilla",
+      "distribution": "West Africa",
+      "representation": "../assets/western-gorilla.jpg",
+      "minHeight": 167,
+      "maxHeight": 176,
+      "timeRegistered": 7000000
+    },
+    {
+      "specie": "Habilis",
+      "scientificName": "Homo habilis",
+      "genus": "Homo",
+      "distribution": "Eastern and Southern Africa",
+      "representation": "../assets/habilis.jpeg",
+      "minHeight": 100,
+      "maxHeight": 135,
+      "timeRegistered": 2000000
+    },
+    {
+      "specie": "Neanderthals",
+      "scientificName": "Homo neanderthalensis",
+      "genus": "Homo",
+      "distribution": "Europe and southwestern to central Asia",
+      "representation": "../assets/neanderthalensis.jpeg",
+      "minHeight": 155,
+      "maxHeight": 164,
+      "timeRegistered": 400000
+    },
+    {
+      "specie": "Floresiensis",
+      "scientificName": "Homo floresienses",
+      "genus": "Homo",
+      "distribution": "Asia (Indonesia)",
+      "representation": "../assets/floresiensis.jpeg",
+      "minHeight": 106,
+      "maxHeight": 106,
+      "timeRegistered": 100000
+    },
+    {
+      "specie": "Erectus",
+      "scientificName": "Homo erectus",
+      "genus": "Homo",
+      "distribution": "Africa, Western Asia and East Asia",
+      "representation": "../assets/erectus.jpeg",
+      "minHeight": 145,
+      "maxHeight": 185,
+      "timeRegistered": 1900000
+    },
+    {
+      "specie": "Human being",
+      "scientificName": "Homo sapiens",
+      "genus": "Homo",
+      "distribution": "All continents",
+      "representation": "../assets/sapiens.jpg",
+      "minHeight": 160,
+      "maxHeight": 170,
+      "timeRegistered": 30000
+    }
+  ]
+}

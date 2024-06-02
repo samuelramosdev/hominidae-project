@@ -1,0 +1,63 @@
+#div-specie {
+  display: flex;
+  justify-content: center;
+}
+
+#div-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px 65px;
+  margin: 50px;
+  border: 1px solid #000000;
+  border-radius: 10px;
+  -webkit-box-shadow: 9px 10px 17px -4px rgba(0,0,0,0.75);
+  -moz-box-shadow: 9px 10px 17px -4px rgba(0,0,0,0.75);
+  box-shadow: 9px 10px 17px -4px rgba(0,0,0,0.75);
+  background-color: #F9F3EC;
+  color: #14142B;
+}
+
+#div-content img {
+  height: 200px;
+  width: 200px;
+  margin-bottom: 30px;
+  border-radius: 50%;
+  -webkit-box-shadow: 9px 10px 17px -4px rgba(0,0,0,0.75);
+  -moz-box-shadow: 9px 10px 17px -4px rgba(0,0,0,0.75);
+  box-shadow: 9px 10px 17px -4px rgba(0,0,0,0.75);
+}
+
+#div-content p {
+  font-size: 18px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border: 1px solid #000000;
+  width: 300px;
+  height: 30px;
+  border-radius: 5px;
+  -webkit-box-shadow: 9px 10px 17px -4px rgba(0,0,0,0.75);
+  -moz-box-shadow: 9px 10px 17px -4px rgba(0,0,0,0.75);
+  box-shadow: 9px 10px 17px -4px rgba(0,0,0,0.75);
+  background-color: whitesmoke;
+  color: #14142B;
+}
+
+#div-content button {
+  margin: 35px;
+  border-radius: 10px;
+  color: white;
+  width: 200px;
+  height: 50px;
+  font-weight: bold;
+  background-color: #C79669;
+}
+
+#div-content button:hover {
+  width: 205px;
+  height: 55px;
+  -webkit-box-shadow: 9px 10px 17px -4px rgba(0,0,0,0.75);
+  -moz-box-shadow: 9px 10px 17px -4px rgba(0,0,0,0.75);
+  box-shadow: 9px 10px 17px -4px rgba(0,0,0,0.75);
+}
